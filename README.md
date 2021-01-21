@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Guillaume
 #### I'm passionate about how Data Science can be leveraged in the fight against climate change.
-![I'm passionate about how Data Science can be leveraged in the fight against climate change.](https://images.unsplash.com/photo-1579818549693-04c7afca6318?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80)
+![I'm passionate about how Data Science can be leveraged in the fight against climate change.](https://www.ceres.org/sites/default/files/2020-11/earth-space-lights-banner.jpg)
 
 End of 2020, I got a crush on coding!
 It hit me when I did my first ‘for’ loop on a free Python introduction class. 3 months and a Data Science bootcamp later, having cleaned tons of dataframes and trained my first keras models, I’m equipped with plenty of exciting tools to play with and ready to have an impact in my areas of interest (sustainability, circular economy, decarbonization).
