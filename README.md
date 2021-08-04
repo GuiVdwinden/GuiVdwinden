@@ -12,7 +12,7 @@ Skills: PYTHON / SQL / PANDAS / NUMPY / SCIKIT-LEARN / KERAS-TENSORFLOW
 
 - 🔭 I’m currently working on https://github.com/GuiVdwinden/greeneye 
 - 📫 How to reach me: guillaume.vanderwinden@gmail.com 
-- ⚡ Fun fact: (1) I'm able to speak the mother tongue of 2.36 billion people on this planet and (2) I have rowed across the Atlantic ocean. 
+- ⚡ Fun facts: (1) I'm able to speak the mother tongue of 2.36 billion people on this planet and (2) I have rowed across the Atlantic ocean. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/GuiVdwinden)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/guillaume-vanderwinden-10172248/)  
