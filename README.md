@@ -3,6 +3,7 @@
 ![I'm passionate about how Data Science can be leveraged in the fight against climate change.](https://www.ceres.org/sites/default/files/2020-11/earth-space-lights-banner.jpg)
 
 End of 2020, I got a crush on coding! It hit me when I did my first ‘for’ loop on a free Python introduction class. After 7 stimulating years spent in Corporate Finance, supporting the distribution of vaccines worldwide and developing my project management skills, I felt I needed to take a turn. And my master in Environmental Management has strengthened my will to make my actions count.
+
 Flash forward, having completed a first professional experience as a **Data Scientist** and having worked with remote sensing data, I'm now teaching at Le Wagon and focusing on creating impact in my areas of interest (climate, circular economy, decarbonization).
 
 
