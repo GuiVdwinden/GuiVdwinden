@@ -2,13 +2,11 @@
 #### I'm passionate about how Data Science can be leveraged in the fight against climate change.
 ![I'm passionate about how Data Science can be leveraged in the fight against climate change.](https://www.ceres.org/sites/default/files/2020-11/earth-space-lights-banner.jpg)
 
-End of 2020, I got a crush on coding!
-It hit me when I did my first ‘for’ loop on a free Python introduction class. 3 months and a Data Science bootcamp later, having cleaned tons of dataframes and trained my first keras models, I’m equipped with plenty of exciting tools to play with and ready to have an impact in my areas of interest (sustainability, circular economy, decarbonization).
+End of 2020, I got a crush on coding! It hit me when I did my first ‘for’ loop on a free Python introduction class. After 7 stimulating years spent in Corporate Finance, supporting the distribution of vaccines worldwide and developing my project management skills, I felt I needed to take a turn. And my master in Environmental Management has strengthened my will to make my actions count.
+Flash forward, having completed a first professional experience as a **Data Scientist** and having worked with remote sensing data, I'm now teaching at Le Wagon and focusing on creating impact in my areas of interest (climate, circular economy, decarbonization).
 
-After 7 stimulating years spent in Corporate Finance, supporting the distribution of vaccines worldwide and developing my project management skills, I felt I needed to take a turn.
-And my master in Environmental Management has strengthened my will to make my actions count.
 
-Skills: PYTHON / SQL / PANDAS / NUMPY / SCIKIT-LEARN / KERAS-TENSORFLOW
+Skills: PYTHON / PANDAS / NUMPY / SCIKIT-LEARN / KERAS-TENSORFLOW / REMOTE SENSING
 
 - 🔭 I’m currently working on https://github.com/GuiVdwinden/greeneye 
 - 📫 How to reach me: guillaume.vanderwinden@gmail.com 
