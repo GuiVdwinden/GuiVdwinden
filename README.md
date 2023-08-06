@@ -6,7 +6,10 @@ Still amazed by what a few lines of code applied to satellite data can achieve. 
 
 Having started my career in the field of finance within multinational company, my master in Environmental Management then pushed me to join, at my level, the battle against climate change. 
 
-Skills: PYTHON / PANDAS / NUMPY / SCIKIT-LEARN / KERAS-TENSORFLOW / REMOTE SENSING
+PYTHON: pandas, numpy   
+ML/DL: scikit-learn, keras-tensorflow, pytorch  
+REMOTE SENSING: geopandas, rasterio, xarray  
+ML OPS: gcp, docker  
 
 - 📫 How to reach me: guillaume.vanderwinden@gmail.com 
 - ⚡ Fun facts: (1) I speak the mother tongue of 2.36 billion people on this planet and (2) I have rowed across the Atlantic ocean. 
